@@ -9,3 +9,4 @@ Python Libaries i used:
 Pandas, Scikit-learn, Matplotlib, Seaborn, Joblib.
 Streamlit for webapp
 
+This project is created for educational and portfolio purposes only and is not intended for commercial use.
